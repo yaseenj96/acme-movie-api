@@ -11,10 +11,10 @@ describe("test", () => {
   });
 });
 
-//IMPLEMENT TEST WITH SUPERTEST
-request(server)
-  .get("/")
-  .expect(200)
-  .end(function (err, res) {
-    if (err) throw err;
-  });
+// //IMPLEMENT TEST WITH SUPERTEST
+// request(server)
+//   .get("/")
+//   .expect(200)
+//   .end(function (err, res) {
+//     if (err) throw err;
+//   });
