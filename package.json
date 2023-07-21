@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha 'acme-movie-api/test/*.js'"
+    "test": "mocha ./test/spec.js"
   },
   "repository": {
     "type": "git",
