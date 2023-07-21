@@ -1,0 +1,24 @@
+{
+  "name": "acme-movie-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'acme-movie-api/test/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaseenj96/acme-movie-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaseenj96/acme-movie-api/issues"
+  },
+  "homepage": "https://github.com/yaseenj96/acme-movie-api#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
