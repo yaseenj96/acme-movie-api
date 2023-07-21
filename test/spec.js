@@ -1,6 +1,6 @@
 const { expect } = require("chai");
 const request = require("supertest");
-import server from "../app.js";
+const server = require("../app.js");
 
 //Test the first test
 describe("test", () => {
